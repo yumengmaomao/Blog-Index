@@ -1,19 +1,19 @@
 /** Website 分类配置 */
 const WEBSITE_SORTS: WebsiteSort[] = [
   {
-    title: "示例分类1",
+    title: "个人项目",
     sites: [
       {
-        title: "主标题",
-        url: "http://www.your-web-page.com/",
-        icon: "",
-        color: "#0171CD",
+        title: "Alist",
+        description: "一个多功能网盘集合",
+        url: "https://alist.rkcat.top",
+        icon: "https://alist.nn.ci/favicon.ico",
       },
       {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
-        icon: "",
+        title: "NextChat",
+        description: "智能响应你的问题",
+        url: "https://yumeng-chatgpt.fly.dev/",
+        icon: "https://yumeng-chatgpt.fly.dev/favicon.ico",
       },
       {
         title: "主标题",
@@ -25,15 +25,6 @@ const WEBSITE_SORTS: WebsiteSort[] = [
   },
   {
     title: "示例分类2",
-  },
-  {
-    title: "示例分类3",
-  },
-  {
-    title: "示例分类4",
-  },
-  {
-    title: "示例分类5",
   },
   {
     title: "友情链接",
@@ -75,8 +66,8 @@ const GLOBAL_CONFIG = {
   /**
    * ICP 备案号，留空不显示
    */
-  ICP: "京ICP证000001号",
-  ICP_URL: "https://beian.miit.gov.cn/",
+  ICP: "萌ICP备20240906号",
+  ICP_URL: "https://icp.gov.moe/",
   FOOTER_INFO: true,
   /**
    * 网站欢迎标语
@@ -104,7 +95,7 @@ const GLOBAL_CONFIG = {
    * 网站 Title Keywords Description 的配置，用于 SEO
    */
   TKD: {
-    title: "My Blog Index",
+    title: "Yumeng Blog Index",
     keywords: "Blog, Index, Index Page",
     description: "This is my personal blog index page.",
   },
