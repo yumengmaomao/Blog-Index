@@ -6,7 +6,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
       {
         title: "Alist",
         description: "一个多功能网盘集合",
-        url: "https://alist.rkcat.top",
+        url: "http://124.222.5.234:5244",
         icon: "https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg",
       },
       {
