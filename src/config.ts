@@ -16,9 +16,9 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         icon: "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChatGPTNextWeb/ChatGPT-Next-Web/main/public/android-chrome-512x512.png",
       },
       {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
+        title: "哔哩哔哩录播姬",
+        description: "一个自动录制bilibili直播间，并保存的应用",
+        url: "http://124.222.5.234:2144",
         icon: "",
       },
     ],
