@@ -7,13 +7,13 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         title: "Alist",
         description: "一个多功能网盘集合",
         url: "https://alist.rkcat.top",
-        icon: "https://alist.nn.ci/favicon.ico",
+        icon: "https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg",
       },
       {
         title: "NextChat",
         description: "智能响应你的问题",
         url: "https://yumeng-chatgpt.fly.dev/",
-        icon: "https://yumeng-chatgpt.fly.dev/favicon.ico",
+        icon: "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChatGPTNextWeb/ChatGPT-Next-Web/main/public/android-chrome-512x512.png",
       },
       {
         title: "主标题",
