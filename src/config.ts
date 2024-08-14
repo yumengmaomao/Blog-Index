@@ -6,20 +6,26 @@ const WEBSITE_SORTS: WebsiteSort[] = [
       {
         title: "Alist",
         description: "一个多功能网盘集合",
-        url: "http://124.222.5.234:5244",
+        url: "http://Alist.rkcat.top",
         icon: "https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg",
       },
       {
         title: "NextChat",
         description: "智能响应你的问题",
-        url: "https://yumeng-chatgpt.fly.dev/",
+        url: "https://gpt.rkcat.top/",
         icon: "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChatGPTNextWeb/ChatGPT-Next-Web/main/public/android-chrome-512x512.png",
       },
       {
         title: "哔哩哔哩录播姬",
         description: "一个自动录制bilibili直播间，并保存的应用",
-        url: "http://124.222.5.234:2144",
-        icon: "",
+        url: "https://bilibli.rkcat.top",
+        icon: "https://mirror.ghproxy.com/https://github.com/BililiveRecorder/BililiveRecorder/blob/dev/.github/assets/logo.svg",
+      },
+      {
+        title: "IT工具集",
+        description: "包含了加密，解密，生成等多种功能的网页",
+        url: "https://it-tools.tech/",
+        icon: "https://mirror.ghproxy.com/https://github.com/CorentinTh/it-tools/blob/main/public/android-chrome-512x512.png",
       },
     ],
   },
@@ -50,7 +56,7 @@ const GLOBAL_CONFIG = {
   /**
    * 个人博客链接
    */
-  BLOG_URL: "https://blog.esunr.xyz",
+  BLOG_URL: "http://blog.rkcat.top",
   /**
    * 指定中心 LOGO 图片地址
    */
